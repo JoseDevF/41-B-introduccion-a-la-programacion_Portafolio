@@ -2,6 +2,11 @@
 
 ## Practicando la sintaxis
 
+### Indice
+
+- [Pasos a seguir](#pasos-a-seguir)
+- [Consideraciones](#consideraciones)
+
 **Este texto debería ir en negritas**
 
 *italicized text*
@@ -28,4 +33,14 @@
 </header>
 ```
 
+### Pasos a seguir
 
+1. First item
+2. Second item
+3. Third item
+
+### Consideraciones
+
+- First item
+- Second item
+- Third item
